@@ -1,0 +1,77 @@
+{
+    "status": "OK",
+    "data": [
+      {
+        "_id": "5dd4917d4d15e41630edbd32",
+        "name": "ROCKBROS pantalones",
+        "price": "25.00",
+        "image": "buzos/ROCKBROS-pantalones.jpg",
+        "gender": "1",
+        "category": "1",
+        "slug": "rockbros-pantalones"
+      },
+      {
+        "_id": "5dd4927d2c34f911ac041871",
+        "name": "ROCKBROS Culote Largo",
+        "price": "19.99",
+        "image": "buzos/ROCKBROS-Culote-Largo.jpg",
+        "gender": "1",
+        "category": "1",
+        "slug": "rockbros-culote-largo"
+      },
+      {
+        "_id": "5dd4935a48831e17786a9988",
+        "name": "Ropa Deportiva transpirable",
+        "price": "14.66",
+        "image": "buzos/Ropa-Deportiva-transpirable.jpg",
+        "gender": "0",
+        "category": "1",
+        "slug": "ropa-deportiva-tanspirable"
+      },
+      {
+        "_id": "5dd493e5c514753a00352350",
+        "name": "Conjunto de deporte para correr",
+        "price": "07.99",
+        "image": "buzos/Conjunto-de-deporte-para-correr.jpg",
+        "gender": "0",
+        "category": "1",
+        "slug": "conjunto-de-deporte-para-correr"
+      },
+      {
+        "_id": "5dd4947a2bb1c4089089c6a8",
+        "name": "Camisetas Polo informales",
+        "price": "10.10",
+        "image": "polos/Camisetas-Polo-informales.webp",
+        "gender": "1",
+        "category": "2",
+        "slug": "camisetas-polo-informales"
+      },
+      {
+        "_id": "5dd494e338b8d91d0c91ed9e",
+        "name": "Camiseta de Polo de oficina",
+        "price": "12.47",
+        "image": "polos/Camiseta-de-Polo-de-oficina.jpg",
+        "gender": "1",
+        "category": "2",
+        "slug": "camiseta-de-polo-de-oficina"
+      },
+      {
+        "_id": "5dd4958bc706f022bc1d1ac0",
+        "name": "Camiseta mujer 2019 mujer rayas",
+        "price": "09.37",
+        "image": "polos/Camiseta-mujer-2019-mujer-rayas.jpg",
+        "gender": "0",
+        "category": "2",
+        "slug": "camiseta-mujer-2019-mujer-rayas"
+      },
+      {
+        "_id": "5dd4968683f66234ac09d289",
+        "name": "Las nuevas mujeres camiseta",
+        "price": "09.37",
+        "image": "polos/Las-nuevas-mujeres-camiseta.webp",
+        "gender": "0",
+        "category": "2",
+        "slug": "las-nuevas-mujeres-camiseta"
+      }
+    ]
+  }
